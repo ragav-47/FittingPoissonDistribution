@@ -1,4 +1,6 @@
-# Fitting Poisson Distribution
+### EX NO : 02
+### DATE  : 13.04.2022
+# <p align="center">Fitting Poisson Distribution</p>
 
 # Aim : 
 
@@ -32,10 +34,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 # Procedure :
 
